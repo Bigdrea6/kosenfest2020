@@ -1,0 +1,19 @@
+半径:10~15cm位
+表示するものは文字(AKASHIKOSEN 3E)とパックマン
+
+
+モーターの速度、LEDの制御
+
+http://www.ze.em-net.ne.jp/~kenken/versawriter/index.html
+
+Neopixel:3000~
+https://www.led-paradise.com/product/2523
+
+写真をドット化
+https://algorithm.joho.info/programming/python/opencv-pixel-art-py/
+
+
+時計
+文字6bit　長針 6bit 短針　3bit 秒針 5bit
+
+12bit位
